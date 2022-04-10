@@ -2,11 +2,13 @@
 
 The purpose of this tutorial is to introduce folks to Dask and show them how to scale their python data-science and machine learning workflows. The materials covered are:
 
-0. Overview of dask - How it works and when to use it. 
-1. Dask Delayed: How to parallelize existing Python code and your custom algorithms. 
-2. Schedulers: Single Machine vs Distributed, and the Dashboard.   
-3. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
-4. Dask-ML: Scalable machine learning using Dask.  
+0. "Test Drive" Notebook that quickly demo's the main Dask features. 
+1. Overview of dask - How it works and when to use it (no code). 
+2. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
+3. Dask-ML: Scalable machine learning using Dask.   
+4. Dask Delayed: How to parallelize existing Python code and your custom algorithms. 
+5. Schedulers: Single Machine vs Distributed, and the Dashboard.   
+
 
 ## Prerequisites
 
