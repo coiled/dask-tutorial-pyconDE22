@@ -32,7 +32,7 @@ to keep in mind is that the amount of resources are limited and sometimes you wo
 
     *IMPORTANT*: If you are joining the live session, make sure to click on the button few minutes before we start so we are ready to go. 
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-mini-tutorial/HEAD)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-tutorial-pyconDE22/HEAD)
 
 
 2. You can create your own set-up locally. To do this you need to be comfortable with the git and github as well as installing packages and creating software environments. If so, follow the next steps:
